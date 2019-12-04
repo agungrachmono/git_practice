@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ini latihan
+=======
+test
+>>>>>>> 47cc30bcf30985bdf085598854949eedbeadc294
